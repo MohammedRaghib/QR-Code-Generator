@@ -14,7 +14,7 @@ This is a simple yet powerful QR Code Generator application built with `customtk
 
 ## Screenshots
 
-![QR Code Generator in action](screenshots/Preview.jpg)
+![QR Code Generator in action](./Preview.jpg)
 
 ## Installation
 
