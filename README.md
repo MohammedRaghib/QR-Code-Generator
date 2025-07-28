@@ -34,7 +34,7 @@ To run this application, you'll need Python installed on your system. Follow the
     Open your terminal or command prompt and run the following command:
 
     ```bash
-    pip install customtkinter qrcode Pillow
+    pip install -r requirements.txt
     ```
 
       * `customtkinter`: For the modern GUI.
@@ -46,10 +46,8 @@ To run this application, you'll need Python installed on your system. Follow the
 1.  **Run the application:**
 
     ```bash
-    python your_script_name.py
+    python genarator.py
     ```
-
-    *(Replace `your_script_name.py` with the actual name of your Python file, e.g., `qr_generator.py`)*
 
 2.  **Enter Data:** In the "Enter Text / URL" field, type the text or paste the URL you want to encode into the QR code.
 
